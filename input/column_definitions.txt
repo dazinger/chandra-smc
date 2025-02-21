@@ -1,0 +1,5 @@
+There is a file called matthew_instructions.txt which confirms that the columns are:
+
+MJD, collimator, Significance, Period, dP, total amp, amp error
+
+Malcolm
